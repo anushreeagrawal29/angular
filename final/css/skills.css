@@ -1,0 +1,531 @@
+@charset "utf-8";
+/* Designing */
+.dest0 {
+	fill: #8BC248;
+}
+.dest1 {
+	fill: #EE2F3F;
+}
+.dest2 {
+	fill: #F04E66;
+}
+.dest3 {
+	fill: #F4EAEA;
+}
+.dest4 {
+	fill: #DBCECE;
+}
+.dest5 {
+	fill: #676767;
+}
+.dest6 {
+	fill: #EDB996;
+}
+.dest7 {
+	fill: #FFFFFF;
+}
+.dest8 {
+	fill: #603A17;
+	stroke: #FFFFFF;
+	stroke-width: 6;
+	stroke-miterlimit: 10;
+}
+.dest9 {
+	fill: none;
+	stroke: #DBCECE;
+	stroke-width: 2;
+	stroke-miterlimit: 10;
+}
+.dest10 {
+	fill: #AD9D9D;
+}
+.dest11 {
+	fill: #F5F6F6;
+}
+.dest12 {
+	fill: #F4F4F4;
+}
+.dest13 {
+	fill: none;
+	stroke: #AD9D9D;
+	stroke-miterlimit: 10;
+}
+.dest14 {
+	fill: #F47B55;
+}
+.dest15 {
+	fill: #EF7554;
+}
+.dest16 {
+	fill: #F69278;
+}
+.dest17 {
+	fill: #34A1DB;
+}
+.dest18 {
+	fill: #E2684B;
+}
+.dest19 {
+	fill: #D9A488;
+}
+.dest20 {
+	fill: #E2B190;
+}
+.dest21 {
+	fill: #818181;
+}
+.dest22 {
+	fill: #E6E6E5;
+}
+.dest23 {
+	fill: #F9A03D;
+}
+.dest24 {
+	fill: #F6851F;
+}
+.dest25 {
+	fill: #DDA885;
+}
+.dest26 {
+	fill: #F58974;
+}
+.dest27 {
+	fill: #E87E70;
+}
+.dest28 {
+	fill: #DD7168;
+}
+.dest29 {
+	fill: #D36B66;
+}
+.dest30 {
+	clip-path: url(#SVGID_2_);
+}
+/*Development*/
+.dvst0 {
+	fill: #FBC117;
+}
+.dvst1 {
+	opacity: 0.15;
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #010101;
+}
+.dvst2 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #FFFFFF;
+}
+.dvst3 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #B4B4B4;
+}
+.dvst4 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #CDCCCC;
+}
+.dvst5 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #010101;
+}
+.dvst6 {
+	fill: #FFFFFF;
+}
+.dvst7 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #E6E6E5;
+}
+.dvst8 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #4E4E4E;
+}
+.dvst9 {
+	opacity: 0.15;
+}
+.dvst10 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #090806;
+}
+.dvst11 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #D4A26A;
+}
+.dvst12 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #FED4A4;
+}
+.dvst13 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #818181;
+}
+.dvst14 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #2B6599;
+}
+.dvst15 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #896835;
+}
+.dvst16 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #6A5029;
+}
+.dvst17 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #BC9D6E;
+}
+.dvst18 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #92BDE3;
+}
+.dvst19 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #5997CC;
+}
+.dvst20 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #CDCCCC;
+	stroke-width: 0.9601;
+	stroke-miterlimit: 22.9256;
+}
+.dvst21 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #F8A58E;
+}
+.dvst22 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #ED7B5C;
+}
+.dvst23 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #E66D4B;
+}
+.dvst24 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #D54527;
+}
+.dvst25 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #4E8EB4;
+}
+.dvst26 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #94C0E7;
+}
+.dvst27 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #A7CBEC;
+}
+.dvst28 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #B9D8F2;
+}
+.dvst29 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #CBE3F6;
+}
+.dvst30 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #81B4E1;
+}
+.dvst31 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #F7AA6E;
+}
+.dvst32 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #5095D0;
+}
+.dvst33 {
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: #0F3253;
+}
+.dvst34 {
+	fill: #34444F;
+}
+.dvst35 {
+	fill: #6A8692;
+}
+/*Testing*/
+.test0 {
+	fill: #4BC1DD;
+}
+.test1 {
+	opacity: 0.7;
+	fill: #31ACCE;
+}
+.test2 {
+	fill: #F4F4F4;
+}
+.test3 {
+	fill: #BBBDBF;
+}
+.test4 {
+	fill: #2C2F3B;
+}
+.test5 {
+	fill: #353B54;
+}
+.test6 {
+	fill: #FFFFFF;
+}
+.test7 {
+	opacity: 0.17;
+	fill: #F3F3F3;
+}
+.test8 {
+	fill: #424755;
+}
+.test9 {
+	fill: #BDBEC0;
+}
+.test10 {
+	fill: #D2D3D4;
+}
+.test11 {
+	fill: #F2F2F2;
+}
+.test12 {
+	fill: #818285;
+}
+.test13 {
+	fill: url(#SVGID_1_);
+}
+.test14 {
+	fill: url(#SVGID_2_);
+}
+.test15 {
+	fill: url(#SVGID_3_);
+}
+.test16 {
+	fill: url(#SVGID_4_);
+}
+.test17 {
+	fill: url(#SVGID_5_);
+}
+.test18 {
+	fill: url(#SVGID_6_);
+}
+.test19 {
+	fill: url(#SVGID_7_);
+}
+.test20 {
+	fill: url(#SVGID_8_);
+}
+.test21 {
+	fill: url(#SVGID_9_);
+}
+.test22 {
+	fill: #FDFEFF;
+}
+.test23 {
+	fill: #EAEAEA;
+}
+.test24 {
+	fill: #A6A8AC;
+}
+.test25 {
+	fill: #F0CE73;
+}
+.test26 {
+	fill: #626776;
+}
+.test27 {
+	fill: #D8D9D8;
+}
+.test28 {
+	fill: #EFB165;
+}
+.test29 {
+	fill: #F05656;
+}
+.test30 {
+	fill: #FEC973;
+}
+.test31 {
+	fill: #E49C48;
+}
+.test32 {
+	fill: #F0D5A9;
+}
+.test33 {
+	fill: #D6B69E;
+}
+.test34 {
+	fill: #C3A487;
+}
+.test35 {
+	fill: #5E6064;
+}
+.test36 {
+	fill: #BEBEC0;
+}
+.test37 {
+	fill: #4D72AA;
+}
+.test38 {
+	fill: #F9F9FA;
+}
+/*Java*/
+.jast0 {
+	fill: #EF4323;
+}
+.jast1 {
+	fill: #F4EAEA;
+}
+.jast2 {
+	fill: #DBCECE;
+}
+.jast3 {
+	fill: none;
+	stroke: #DBCECE;
+	stroke-width: 2;
+	stroke-miterlimit: 10;
+}
+.jast4 {
+	fill: #E0D3D2;
+}
+.jast5 {
+	fill: #AD9D9D;
+}
+.jast6 {
+	fill: #B4B4B4;
+}
+.jast7 {
+	fill: #E6E6E5;
+}
+.jast8 {
+	fill: #F4F4F4;
+}
+.jast9 {
+	fill: #32A2DC;
+}
+.jast10 {
+	fill: #278CB0;
+}
+.jast11 {
+	fill: #3AB1E0;
+}
+.jast12 {
+	fill: #F47B55;
+}
+.jast13 {
+	fill: #676767;
+}
+.jast14 {
+	fill: #F3F3F3;
+}
+.jast15 {
+	fill: #CDCCCC;
+}
+.jast16 {
+	fill: #EDB996;
+}
+.jast17 {
+	fill: #DDA885;
+}
+.jast18 {
+	fill: #F0D6C5;
+}
+.jast19 {
+	fill: #E8E2E2;
+}
+.jast20 {
+	fill: #EE2F3F;
+}
+.jast21 {
+	fill: #F04E66;
+}
+.jast22 {
+	fill: #F9A03D;
+}
+.jast23 {
+	fill: #F6851F;
+}
+/**/
+.left_content {
+	color: white;
+	padding: 10px 20px;
+	border-radius: 0px 20px 20px 0px;
+	text-align: right;
+	font-weight: 800;
+}
+.right_content {
+	color: white;
+	padding: 10px 20px;
+	border-radius: 20px 0px 0px 20px;
+	text-align: left;
+}
+table p {
+	margin: 0 0 4px;
+}
+.des {
+	background-color: #8BC248;
+}
+.dev {
+	background-color: #FBC117;
+}
+.tes {
+	background-color: #4BC1DD;
+}
+.jav {
+	background-color: #EF4323;
+}
+.deshead {
+	background-color: #5b8c1f;
+	color: white;
+	text-align: center;
+	padding: 1% 0% !important;
+	margin: 0px !important;
+}
+.devhead {
+	background-color: #e4ac06;
+	color: white;
+	text-align: center;
+	padding: 1% 0% !important;
+	margin: 0px !important;
+}
+.teshead {
+	background-color: #109fc1;
+	color: white;
+	text-align: center;
+	padding: 1% 0% !important;
+	margin: 0px !important;
+}
+.javhead {
+	background-color: #d22708;
+	color: white;
+	text-align: center;
+	padding: 1% 0% !important;
+	margin: 0px !important;
+}

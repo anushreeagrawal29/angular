@@ -1,0 +1,123 @@
+
+@media only screen and (max-width: 767px) {
+.main {
+	width: 100%;
+	margin: 45px auto;
+	background: #fff;
+	padding: 30px 30px;
+}
+.bt-menu.bt-menu-open ul{
+	height:0px !important;
+	
+	}
+.bt-menu ul{
+		margin-top:0% !important;
+		display:none;
+		}
+.bt-menu-open ul {
+	display:block;
+	}
+
+.bt-menu ul li {
+    display: block !important;
+    margin: 0 2%;
+ 
+    width: 83% !important;
+   height:44px !important;
+    opacity: 0;
+    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+}
+
+.board{
+	width:100% !important;
+	}
+	li:after{
+		display:none;
+		}
+		.nav-tabs > li a {
+    width: 60px !important;
+    height: 30px !important;
+		}
+		 .bigscreen {
+		 display:none !important;
+		 }
+		 
+		 .smallscreen{
+			display:block !important; 
+			 }
+		
+	.frontimage img {
+    width: 74% !important;
+    height: auto !important;
+       margin: 3% 10% !important;
+	   position:static !important;
+  }
+  
+ 
+}
+
+
+@media screen and (min-width : 767px) and (max-width : 854px) {
+	
+	.skw-page__half--right .skw-page__content {
+    padding-left: 36% !important;
+    padding-right: 16% !important;
+  
+}
+	.skw-page__content{
+		    line-height: 16px !important;
+    font-size: 14px !important;
+		}
+	
+	.skw-page__heading{
+	font-size: 18px !important;	
+		}
+		.skw-page__half--left .skw-page__content {
+    padding-left: 21% !important;
+	}
+	 .bigscreen {
+		 display:block !important;
+		 }
+		 
+		 .smallscreen{
+			display:none !important; 
+			 }
+	}
+
+@media (width:800px){
+	.skw-page__half--right .skw-page__content{
+		padding-left: 36% !important;
+		}
+		 .bigscreen {
+		 display:block !important;
+		 }
+		 
+		 .smallscreen{
+			display:none !important; 
+			 }
+}
+
+
+
+
+
+@media screen and (min-width : 768px) and (max-width : 2000px) {
+.main {
+	width: 60% !important;
+	margin: 45px auto;
+	background: #fff;
+	padding: 30px 30px;
+}
+ .bigscreen {
+		 display:block !important;
+		 }
+		 
+		 .smallscreen{
+			display:none !important; 
+			 }
+
+}
+
